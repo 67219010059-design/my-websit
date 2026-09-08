@@ -1,0 +1,6 @@
+{
+  "name": "Campus Flow",
+  "description": "ระบบสถิติและวิเคราะห์การจราจรเข้า-ออกมหาวิทยาลัย (Campus Traffic & Gate Analytics)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
